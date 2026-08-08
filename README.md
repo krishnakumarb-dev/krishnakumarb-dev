@@ -14,7 +14,6 @@ Building scalable web &amp; mobile applications with MERN Stack
 React | Node.js | Express | MongoDB | Java | Python  
 Open to collaboration and learning new technologies
 
-🔭 &nbsp;I'm currently working on **MERN Stack &amp; React Native projects**  
 🌱 &nbsp;I'm currently learning **React Native, AI Integration, System Design**  
 👯 &nbsp;I'm looking to collaborate on **Open-source MERN Stack, React Native**  
 💬 &nbsp;Ask me about **React, Node.js, Express, MongoDB, Java, Python, REST APIs**  
